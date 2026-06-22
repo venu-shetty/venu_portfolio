@@ -1,0 +1,6 @@
+{
+  "name": "Shetti Venu Portfolio",
+  "description": "Interactive Data Science & Software Engineering Portfolio for Shetti Venu, featuring interactive machine learning simulators, professional credentials, and a Gemini-powered recruiter assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
